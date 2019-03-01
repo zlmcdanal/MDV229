@@ -1,0 +1,7 @@
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodingExercise6\ZacharyMcDanal_CodingExercise6\bin\Debug\ZacharyMcDanal_CodingExercise6.exe.config
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodingExercise6\ZacharyMcDanal_CodingExercise6\bin\Debug\ZacharyMcDanal_CodingExercise6.exe
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodingExercise6\ZacharyMcDanal_CodingExercise6\bin\Debug\ZacharyMcDanal_CodingExercise6.pdb
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodingExercise6\ZacharyMcDanal_CodingExercise6\obj\Debug\ZacharyMcDanal_CodingExercise6.csprojAssemblyReference.cache
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodingExercise6\ZacharyMcDanal_CodingExercise6\obj\Debug\ZacharyMcDanal_CodingExercise6.csproj.CoreCompileInputs.cache
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodingExercise6\ZacharyMcDanal_CodingExercise6\obj\Debug\ZacharyMcDanal_CodingExercise6.exe
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodingExercise6\ZacharyMcDanal_CodingExercise6\obj\Debug\ZacharyMcDanal_CodingExercise6.pdb
