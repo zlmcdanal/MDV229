@@ -1,0 +1,9 @@
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CHT_CodeFiles\ZacharyMcDanal_CHT_CodeFiles\bin\Debug\ZacharyMcDanal_CHT_CodeFiles.exe.config
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CHT_CodeFiles\ZacharyMcDanal_CHT_CodeFiles\bin\Debug\ZacharyMcDanal_CHT_CodeFiles.exe
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CHT_CodeFiles\ZacharyMcDanal_CHT_CodeFiles\bin\Debug\ZacharyMcDanal_CHT_CodeFiles.pdb
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CHT_CodeFiles\ZacharyMcDanal_CHT_CodeFiles\obj\Debug\ZacharyMcDanal_CHT_CodeFiles.csprojAssemblyReference.cache
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CHT_CodeFiles\ZacharyMcDanal_CHT_CodeFiles\obj\Debug\ZacharyMcDanal_CHT_CodeFiles.csproj.CoreCompileInputs.cache
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CHT_CodeFiles\ZacharyMcDanal_CHT_CodeFiles\obj\Debug\ZacharyMcDanal_CHT_CodeFiles.exe
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CHT_CodeFiles\ZacharyMcDanal_CHT_CodeFiles\obj\Debug\ZacharyMcDanal_CHT_CodeFiles.pdb
+C:\Users\ZLMcDanal\source\repos\ZacharyMcDanal_CHT_CodeFiles\ZacharyMcDanal_CHT_CodeFiles\bin\Debug\MySql.Data.dll
+C:\Users\ZLMcDanal\source\repos\ZacharyMcDanal_CHT_CodeFiles\ZacharyMcDanal_CHT_CodeFiles\obj\Debug\ZacharyMcDanal_CHT_CodeFiles.csproj.CopyComplete
