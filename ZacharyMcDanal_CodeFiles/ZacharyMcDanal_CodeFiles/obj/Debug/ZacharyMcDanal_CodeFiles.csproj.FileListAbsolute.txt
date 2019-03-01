@@ -1,0 +1,9 @@
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodeFiles\ZacharyMcDanal_CodeFiles\bin\Debug\ZacharyMcDanal_CodeFiles.exe.config
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodeFiles\ZacharyMcDanal_CodeFiles\bin\Debug\ZacharyMcDanal_CodeFiles.exe
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodeFiles\ZacharyMcDanal_CodeFiles\bin\Debug\ZacharyMcDanal_CodeFiles.pdb
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodeFiles\ZacharyMcDanal_CodeFiles\obj\Debug\ZacharyMcDanal_CodeFiles.csprojAssemblyReference.cache
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodeFiles\ZacharyMcDanal_CodeFiles\obj\Debug\ZacharyMcDanal_CodeFiles.csproj.CoreCompileInputs.cache
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodeFiles\ZacharyMcDanal_CodeFiles\obj\Debug\ZacharyMcDanal_CodeFiles.exe
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodeFiles\ZacharyMcDanal_CodeFiles\obj\Debug\ZacharyMcDanal_CodeFiles.pdb
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodeFiles\ZacharyMcDanal_CodeFiles\bin\Debug\MySql.Data.dll
+c:\users\zlmcdanal\source\repos\ZacharyMcDanal_CodeFiles\ZacharyMcDanal_CodeFiles\obj\Debug\ZacharyMcDanal_CodeFiles.csproj.CopyComplete
